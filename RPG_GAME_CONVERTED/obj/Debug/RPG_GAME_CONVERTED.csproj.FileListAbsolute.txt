@@ -1,0 +1,7 @@
+C:\Newnamet\provisorios\Programação Orientada\projetos extras\RPG_GAME_CONVERTED\RPG_GAME_CONVERTED\bin\Debug\RPG_GAME_CONVERTED.exe.config
+C:\Newnamet\provisorios\Programação Orientada\projetos extras\RPG_GAME_CONVERTED\RPG_GAME_CONVERTED\bin\Debug\RPG_GAME_CONVERTED.exe
+C:\Newnamet\provisorios\Programação Orientada\projetos extras\RPG_GAME_CONVERTED\RPG_GAME_CONVERTED\bin\Debug\RPG_GAME_CONVERTED.pdb
+C:\Newnamet\provisorios\Programação Orientada\projetos extras\RPG_GAME_CONVERTED\RPG_GAME_CONVERTED\obj\Debug\RPG_GAME_CONVERTED.csproj.AssemblyReference.cache
+C:\Newnamet\provisorios\Programação Orientada\projetos extras\RPG_GAME_CONVERTED\RPG_GAME_CONVERTED\obj\Debug\RPG_GAME_CONVERTED.csproj.CoreCompileInputs.cache
+C:\Newnamet\provisorios\Programação Orientada\projetos extras\RPG_GAME_CONVERTED\RPG_GAME_CONVERTED\obj\Debug\RPG_GAME_CONVERTED.exe
+C:\Newnamet\provisorios\Programação Orientada\projetos extras\RPG_GAME_CONVERTED\RPG_GAME_CONVERTED\obj\Debug\RPG_GAME_CONVERTED.pdb
